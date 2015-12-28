@@ -1,2 +1,3 @@
 # HelloWorld
-HelloWorld in bash. initial.
+HelloWorld in bash.
+
